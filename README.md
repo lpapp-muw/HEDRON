@@ -1,4 +1,4 @@
-# HEDRON
+# NOTE
 
 This repository contains metadata for the HEDRON project. Details of HEDRON are currently confidential. At this point, this repository is intended to serve as appendix data storage for our reviewers.
 
